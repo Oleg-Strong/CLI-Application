@@ -8,7 +8,7 @@ package.json - [**Screen**](https://monosnap.com/file/t4GqfULUR4hfUN5Hhlsc1FwkJG
 
 console - [**Screen**](https://monosnap.com/file/1M8G19iHpyV3IqM6kqtEnQcK31G8aY).
 
-2. Добавялем контакт **"node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22"**
+2. Добавялем контакт **"node index --action add --name Mango --email mango@gmail.com --phone 322-22-22"**
 
 package.json - [**Screen**](https://monosnap.com/file/hAKodNHkcZO9R9ythftZFPj48xytKP).
 
@@ -20,7 +20,7 @@ package.json - [**Screen**](https://monosnap.com/file/hAKodNHkcZO9R9ythftZFPj48x
 
 console - [**Screen**](https://monosnap.com/file/VOl4GUsnmepbP5UXfYMpqSu94fdBCp).
 
-4. Удаляем контакт по id **"node index.js --action remove --id "**
+4. Удаляем контакт по id **"node index --action remove --id "**
 
 package.json - [**Screen**](https://monosnap.com/file/t4GqfULUR4hfUN5Hhlsc1FwkJGuDMF).
 
