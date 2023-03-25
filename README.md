@@ -4,7 +4,7 @@
 
 1. Получаем и выводим весь список контактов в виде таблицы **"node index --action list"**
 
-package.json - [**Screen**](https://monosnap.com/file/1M8G19iHpyV3IqM6kqtEnQcK31G8aY).
+package.json - [**Screen**](https://monosnap.com/file/t4GqfULUR4hfUN5Hhlsc1FwkJGuDMF).
 
 console - [**Screen**](https://monosnap.com/file/1M8G19iHpyV3IqM6kqtEnQcK31G8aY).
 
@@ -14,7 +14,7 @@ package.json - [**Screen**](https://monosnap.com/file/hAKodNHkcZO9R9ythftZFPj48x
 
 console - [**Screen**](https://monosnap.com/file/DAQzJpIMHhI9QBPLH8hVKxXOtXq0bx).
 
-3. Получаем контакт по id **"node index --action get --id 05olLMgyVQdWRwgKfg5J6"**
+3. Получаем контакт по id **"node index --action get --id 09cb2137-743c-42be-a934-4a6a9d6d026a"**
 
 package.json - [**Screen**](https://monosnap.com/file/hAKodNHkcZO9R9ythftZFPj48xytKP).
 
