@@ -22,6 +22,6 @@ console - [**Screen**](https://monosnap.com/file/VOl4GUsnmepbP5UXfYMpqSu94fdBCp)
 
 4. Удаляем контакт по id **"node index.js --action remove --id "**
 
-package.json - [**Screen**](https://monosnap.com/file/1M8G19iHpyV3IqM6kqtEnQcK31G8aY).
+package.json - [**Screen**](https://monosnap.com/file/t4GqfULUR4hfUN5Hhlsc1FwkJGuDMF).
 
 console - [**Screen**](https://monosnap.com/file/NAX6X5th3KaLXHrdOccXAv5STovidv).
